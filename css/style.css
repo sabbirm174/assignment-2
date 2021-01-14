@@ -1,0 +1,134 @@
+body{
+    color: #3E3E3E;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.header-area{
+    background-color: #fffbf0;
+}
+.header-area .navbar-custom ul li a{
+    color: #3C3C3C;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.header-area .navbar-custom ul li{
+    margin-right:57px;
+}
+.header-area .navbar-custom ul li:last-child{
+    margin-right: 0;
+}
+.header-area .navbar-custom .navbar-brand img{
+    width: 80%;
+    margin-right: 30px;
+}
+.navbar-custom .navbar-toggler-icon {
+    background-image: url(../icons/humberger.svg);
+  }
+.header-area .navbar-custom .navbar-brand{
+    color: #3C3C3C;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+  }
+.logo-text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color: #a4bc46;
+    margin-right: .25rem;
+}
+
+.header-area .hero-banner h1{
+    font-family: 'Bebas Neue';
+    font-weight: 700;
+    font-size: 5rem;
+    letter-spacing: 3px;
+}
+.header-area .hero-banner h1 span{
+    color: #fabe4c;
+}
+.header-area .hero-banner p{
+    color: #3C3C3C;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.btn-custom{
+     padding: 10px 18px;
+     background-image: linear-gradient(180deg,#A4BC46,#85A019);
+     border:none;
+     border-radius: 4px;
+     color: aliceblue;
+}
+.btn-custom img{
+    margin-right: .50rem;
+}
+.hero-banner{
+    padding-bottom: 7rem;
+}
+.header-area .hero-banner .banner-img img{
+    width: 100%;
+}
+.card-custom{
+    border: 0;
+}
+.card-custom .card-t img{
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    padding: 15px 0;
+}
+.card-custom h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    color: #FABE4C;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.card-custom{
+    border-radius: 10px;
+}
+.jacket h1{
+    font-weight: 700;
+    font-family: 'Bebas Neue';
+    font-size: 48px;
+    letter-spacing: 2px;
+    color: #363958;
+
+}
+.man-jacket{
+    margin-top: 8rem;
+}
+.about{
+    margin-top: 7rem;
+}
+.box-wraper{
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin: 1.5rem 0;
+}
+.box-wraper .single-box img{
+    width:16%;
+    margin:0 1.3rem;
+}
+.botom img{
+    width: 100%;
+    margin-top: 8rem;
+    padding: 0 15px;
+}
+footer{
+    height: 500px;
+}
+.footer-left{
+    height: 500px;
+}
+.footer-left .im-fot{
+    width:300px;
+    margin-top: 5rem;
+}
+.fot-right-wrap img{
+    width: 40px;
+    margin-right: 1rem;
+}
+
