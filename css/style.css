@@ -117,18 +117,72 @@ h5{
     margin-top: 8rem;
     padding: 0 15px;
 }
-footer{
-    height: 500px;
+.footer-top{
+    padding: 4rem 0;
+    background-color: #32333e;
+    color: #ffffff;
 }
-.footer-left{
-    height: 500px;
+footer .img-grup img{
+    width: 35px;
+    padding-right: .5rem;
 }
-.footer-left .im-fot{
-    width:300px;
-    margin-top: 5rem;
+footer .footer-heading{
+    margin: 1.5rem 0;
+    border-bottom: 1px solid #fff ;
 }
-.fot-right-wrap img{
-    width: 40px;
-    margin-right: 1rem;
+footer ul{
+    margin-left: -37px;
 }
 
+footer ul li{
+    list-style-type: none;
+    margin-top: 1rem;
+    
+}
+footer ul li a{
+    text-decoration: none;
+    color:#ffffff;
+    font-size: 18px;
+}
+.logo img{
+    margin-right: .25rem;
+}
+.logo span{
+    color:#fabe4c;
+}
+.input-grup{
+    position: relative;
+}
+.input-grup input:focus{
+    outline: none;
+}
+.input-grup input{
+    width: 100%;
+    padding: 5px;
+    border: 2px solid #fabe4c;
+}
+.input-grup button {
+    position: absolute;
+    border: none;
+    background: #fabe4c;
+    right: 0;
+    top: 0px;
+    padding: 5px 15px;
+    font-size: 18px;
+    outline: none;
+}
+.fot-first .logo {
+    font-size: 22px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-top: 15px;
+    padding-bottom: 6px;
+}
+
+.footer-bottom{
+    color: #ffffff;
+}
+.footer-bottom p{
+    margin: 1rem 0 1rem 1.3rem;
+    
+}
