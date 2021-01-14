@@ -22,7 +22,9 @@ body {
 .header-area .navbar-custom ul li:last-child {
     margin-right: 0;
 }
-
+.header-area .navbar-custom img{
+    width:20px;
+}
 .header-area .navbar-custom .navbar-brand img {
     width: 80%;
     margin-right: 30px;
@@ -40,7 +42,7 @@ body {
 
 .logo-text {
     font-family: 'Montserrat', sans-serif;
-    font-size: 25px;
+    
     color: #a4bc46;
     margin-right: .25rem;
 }
